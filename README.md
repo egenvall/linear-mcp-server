@@ -17,7 +17,6 @@ Features:
 
 Add server config to Claude Desktop.
 
-NOTE: Claude does not work well with nvm environments. Make sure to reference the version of Node with its absolute path.
 
 ```
 {
