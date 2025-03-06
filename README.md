@@ -23,7 +23,7 @@ NOTE: Claude does not work well with nvm environments. Make sure to reference th
 {
   "mcpServers": {
     "linear": {
-      "command": "/Users/USERNAME/.nvm/versions/node/v22.13.0/bin/node",
+      "command": "npx",
       "args": [
         "--experimental-strip-types",
         "/absolute/path/to/repo/index.ts"
